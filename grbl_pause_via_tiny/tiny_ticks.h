@@ -4,8 +4,9 @@
  * Some very basic timing functions using Timer/Counter 0.
  * Also includes a simple event handling mechanism.
  *
- *  License: MIT
- *  Version: 1.0
+ *   License: MIT
+ *   Version: 1.0
+ * Copyright: Beau Barker (https://github.com/barkerest/)
  */ 
 
 #ifndef __TINY_TICKS_H__

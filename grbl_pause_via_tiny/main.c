@@ -1,8 +1,9 @@
 /*
  * grbl_pause_via_tiny.c
  *
- *  Version: 1.0
- *  License: MIT
+ *   Version: 1.0
+ *   License: MIT
+ * Copyright: Beau Barker (https://github.com/barkerest/)
  */ 
 
 #include <avr/io.h>
